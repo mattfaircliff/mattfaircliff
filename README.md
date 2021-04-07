@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mattfaircliff
+- 👀 I’m interested in all things email, python, django and docker
+- 🌱 I’m currently learning kafka, kubernetes, terraform and other cool stuff
